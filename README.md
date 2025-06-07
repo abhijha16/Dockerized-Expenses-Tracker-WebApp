@@ -64,14 +64,14 @@ Set up MySQL database and update the application.properties file with your datab
 ## Original App Features (by Developer)
 Though I did not develop the application logic, the following features are included as part of the original codebase:
 - **Authentication & Authorization** -> Secure login and registration via Spring Security
-- **Expense Management ** -> Add, update, delete, and filter expenses
+- **Expense Management** -> Add, update, delete, and filter expenses
 - **Filtering** -> View expenses based on category, date, etc.
 
 ## Contributions
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or create a pull request.
 
 ## Credits
-Original Code Author: `https://github.com/mohamed0sawy/Expenses-Tracker-WebApp`
+Original Code Author: `https://github.com/mohamed0sawy/Expenses-Tracker-WebApp`             
 DevOps, Dockerization, and Deployment: `https://github.com/abhijha16`
 
 ## License
