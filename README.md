@@ -52,14 +52,14 @@ Set up MySQL database and update the application.properties file with your datab
 `http://localhost:8080 or http://aws-ec2-ip-address:8080`.
 
 ## ScreenShots
+![Example Image](https://raw.githubusercontent.com/abhijha16/Dockerized-Expenses-Tracker-WebApp/main/screenshots/8.png) <br>
 ![Example Image](screenshots/1.png) <br>
 ![Example Image](screenshots/2-2.png) <br>
 ![Example Image](screenshots/3-3.png) <br>
 ![Example Image](screenshots/4-4.png) <br>
 ![Example Image](screenshots/5-5.png) <br>
 ![Example Image](screenshots/6-6.png) <br>
-![Example Image](screenshots/7.png) <br>
-![Example Image](https://raw.githubusercontent.com/abhijha16/Dockerized-Expenses-Tracker-WebApp/main/screenshots/8.png)
+![Example Image](screenshots/7.png) 
 
 ## Original App Features (by Developer)
 Though I did not develop the application logic, the following features are included as part of the original codebase:
