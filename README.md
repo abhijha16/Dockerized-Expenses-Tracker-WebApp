@@ -59,7 +59,7 @@ Set up MySQL database and update the application.properties file with your datab
 ![Example Image](screenshots/5-5.png) <br>
 ![Example Image](screenshots/6-6.png) <br>
 ![Example Image](screenshots/7.png) <br>
-![Example Image](screenshots/8.png) <br>
+![Example Image](screenshots/8.png) 
 
 ## Original App Features (by Developer)
 Though I did not develop the application logic, the following features are included as part of the original codebase:
